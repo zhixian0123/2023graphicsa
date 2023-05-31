@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1685503031 source:c:\users\administrator\desktop\2023graphicsa\week16_all\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1426320928 c:\users\administrator\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\administrator\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1685502149 source:c:\users\administrator\desktop\2023graphicsa\week16_all\step02.c
+	<GL/glut.h>
+
+1685502205 source:c:\users\administrator\desktop\2023graphicsa\week16_all\step01.c
+	<GL/glut.h>
+
